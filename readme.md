@@ -1,4 +1,4 @@
-RESTFUL ROUTES- There are & RESTful routes
+RESTFUL ROUTES- There are 7 RESTful routes
 
 REST is just a pattern for defining our routes,way of mapping btw HTTP routes and CRUD 
 
