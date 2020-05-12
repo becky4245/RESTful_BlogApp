@@ -5,7 +5,7 @@ REST is just a pattern for defining our routes,way of mapping btw HTTP routes an
 
 RESTful Routes:
 Name	        Path	        HTTP Verb	           Purpose	                 Mongoose Method
------------------------------------------------------------------------------------------------------------
+______________________________________________________________________________________________________________
 Index	   |     /blogs	       |   GET	   |     List all blogs	                   | Blog.find()
 New      |  	/blogs/new     |   GET	   |     Show new blog form	               |    N/A
 Create   |   	/blogs	       |   POST	   |     Create a new blog,                |
