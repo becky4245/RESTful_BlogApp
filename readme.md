@@ -7,6 +7,7 @@ RESTful Routes:
 Name	        Path	        HTTP Verb	           Purpose	                 Mongoose Method
 ______________________________________________________________________________________________________________
 Index	   |     /blogs	       |   GET	   |     List all blogs	                   | Blog.find()
+________________________________________________________________________________________________________________
 New      |  	/blogs/new     |   GET	   |     Show new blog form	               |    N/A
 Create   |   	/blogs	       |   POST	   |     Create a new blog,                |
          |                   |           |      then redirect somewhere	         |  Blog.create()
